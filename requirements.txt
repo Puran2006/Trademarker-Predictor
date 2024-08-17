@@ -1,0 +1,7 @@
+flask
+torch
+pandas
+scikit-learn
+mlflow
+gunicorn
+torchvision
